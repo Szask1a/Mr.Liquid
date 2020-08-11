@@ -1,6 +1,6 @@
 ![Mr.Liquid Logo](/testliquid/images/logo.png)
 
-# :Mr Liquid - A Web development project: ![PHP](https://img.shields.io/static/v1?label=PHP&message=5.3.9&color=PURPLE)
+# Mr Liquid - A Web development project ![PHP](https://img.shields.io/static/v1?label=PHP&message=5.3.9&color=PURPLE)
 
   Mr. Liquid is an E-Commerce portal for liquer traders to sell their products online to customers.
 
